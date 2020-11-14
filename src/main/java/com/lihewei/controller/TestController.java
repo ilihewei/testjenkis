@@ -5,7 +5,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author apple
+ * @author lihewei
+ *
  */
 @RestController
 public class TestController {
